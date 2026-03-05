@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "人にやさしく(カバー)",
+  "base_artist": "THE ROLLING GIRLS",
+  "createdAt": "2026-03-05T11:46:30.481658Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "人にやさしく(カバー)",
+      "artist": "THE ROLLING GIRLS",
+      "has_synced": true,
+      "path": "select/01_人にやさしく(カバー)_THE_ROLLING_GIRLS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "人にやさしく (カバー)",
+      "artist": "THE ROLLING GIRLS",
+      "has_synced": true,
+      "path": "select/02_人にやさしく_(カバー)_THE_ROLLING_GIRLS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "人にやさしく(カバー)",
+      "artist": "THE ROLLING GIRLS",
+      "has_synced": false,
+      "path": "select/pl_01_人にやさしく(カバー)_THE_ROLLING_GIRLS.txt"
+    }
+  ]
+}
